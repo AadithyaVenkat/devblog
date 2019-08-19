@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'Travel Blog', // Required
+  author: 'Aadithya Venkatanarayanan', // Required
+  description: 'Photographer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
